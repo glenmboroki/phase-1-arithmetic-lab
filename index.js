@@ -1,9 +1,12 @@
 // Write your code here
-// MULTIPLY FUNCTION
-const multiply = (num1, num2) => {
-    return num1 * num2;
-  };
+let num1=31
+let num2=2
+let multiply=num1*num2
 
-  let resulMultiply = multiply(31, 2);
-  console.log(resulMultiply);
-  // 62
+let random=Math.ceil(Math.random()*10)
+
+let num3=10
+let num4=6
+let mod=num3%num4
+
+let max =Math.max(1, 5, 8, 12, 14, 18, 20,7);
